@@ -41,5 +41,5 @@ Imagine this Situation…
 	Frustration because data was updated after sending (you had to repeat the process): Eliminated
 	Possibility of manual mistakes due to boredom: Eliminated
 
-Instructions for use are found within the file
+Instructions for use are found within the file "Monthly_Sales_Reporting_Template _Final.xlsm". The sales files are labelled "sales_xyz.xslx" 
 	
